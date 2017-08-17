@@ -2,10 +2,8 @@ something new
 and  
 woo hoo
 
-wh
+why
 
-git error
-
-y 
+git error 
 
 merge conflict
